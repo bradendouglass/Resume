@@ -1,13 +1,13 @@
 Braden Douglass  
-braden.douglass@gmail.com  
+braden.douglass[at]gmail[dotz]com  
 415.935.3151  
 447 McAdoo Ave
 Greensboro, NC 27406
 
-[GitHub](http://github.com/bradendouglass)  
-[Blog](http://cloudbacon.com)  
-[Twitter](http://twitter.com/braidn)  
-[Treehouse](http://teamtreehouse.com/braden)  
+[GitHub](http://github.com/bradendouglass) / 
+[Blog](http://cloudbacon.com) / 
+[Twitter](http://twitter.com/braidn) / 
+[Treehouse](http://teamtreehouse.com/braden) / 
 [LinkedIn](http://linkedin.com/in/bradendouglass)
 
 Skills
