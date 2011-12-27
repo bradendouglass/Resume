@@ -1,82 +1,77 @@
-# Nathaniel Welch
+Braden Douglass  
+braden.douglass@gmail.com  
+415.935.3151  
+447 McAdoo Ave
+Greensboro, NC 27406
 
- * <nat@natwelch.com>
- * <http://natwelch.com>
- * 707-799-8675
+[GitHub](http://github.com/bradendouglass)  
+[Blog](http://cloudbacon.com)  
+[Twitter](http://twitter.com/braidn)  
+[Treehouse](http://teamtreehouse.com/braden)  
+[LinkedIn](http://linkedin.com/in/bradendouglass)
 
-## Background
+Skills
+----------------
 
-I am a current student of Computer Science at Cal Poly with an interest in communication and design. I am a big believer in experimenting with new things to expand my knowledge both professionally and recreationally. I strive to be a quick learner and both a competent leader and capable worker. I am an Eagle Scout and was an active officer of the Cal Poly Linux Users Group for three years. I was awarded Cal Poly's Residence Hall Council member of the year for both 2006 and 2007. In my free time I enjoy contributing to open source projects, hiking, reading and listening to music.
+* Ruby
+  * Rails
+  * Sinatra
+  * Static Site Generators
+  * Dedicated to functional, well crafted code
 
-## Education
+* Javascript
+  * DOM manipulation
+  * Backbone.js
+  * Coffeescript (light)
+  * Overall a language that is being actively learned (_read_: wrestled
+    through)
 
-Computer Science, B.S.  
-Fall 2006 - Spring 2011  
-California Polytechnic State University, San Luis Obispo  
+* Tools
+  * Linux
+  * OS X
+  * HTML (5)
+  * CSS (3, responsive web design)
+  * Vim
+  * Amazon Web Services (Ec2, SimpleDB, S3, SQS)
+  * Rackspace services
+  * Apache
+  * MySQL
+  * PostgreSQL
+  * Schemaless DBs (NoSql)
 
-## Systems Proficiency
+Work Experience
+---------------
+__My Untitled Folder__  
+Co-Host  
+2008 - 2011  
+Myself and one co-host produced almost 100 episodes that focused on Apple, Google, the cloud and any up and coming tech. No one really listened to the podcast and after 3 years of constructing extensive weekly show notes, editing out issues in the audio, and trying to stretch ideas and questions out of the conversation I decided to cut the chord and pursue independent web media without my co-host. Never a one regret
 
-**Programming Languages**
+__Benedict Advertising / Honkfish Social Media__  
+Community Manager ("Social Media Artificier")  
+2009 - 2010  
+A fledgling social media marketing firm was looking to fill a position with someone who had past experience yet, had a impressive grasp on emerging technology.  Community advocates  plan and implement specific online brand building techniques for a diverse group of clients.  Successful clients and advocates leverage company profiles in order to listen to customer needs, conduct research and development, interact freely with new and emerging customers, build friendships, and improve sales (if sales are the overall focus).
 
- > Proficient in:  PHP, Ruby, SML/NJ, HTML, CSS, JavaScript, C, Java, SQL (MySQL, SQLite), Bash
+__It and Social Media Freelancer__  
+2008 - 2009  
+Client based work focusing on Social Media Consulting, Web Design, Help desk needs, and more in a Mac (10.4 / 10.5 Server), Linux, Windows (XP / Vista / 7) based network environment.  The extra free time has allowed me to further my views into Ruby, Cocoa, PHP and other aspects of coding and web development.
 
- > Experience with: F#, Python, C++, MongoDB
+__Miller School of Albemarle__  
+IT Director  
+2006 - 2008  
+Complete control over the technological needs of The Miller School (private: grades 8-12). Projects I undertook included, wireless networking for teachers, faculty laptops / desktop upkeep, technology education programs for faculty and staff, web application integration, Novel-Linux / MAC / Microsoft integration, wired / wireless 802.11 a/g/b/n networking and implementation (Cisco / 3Com / Proxim), lab construction, web site design (CSS, PHP, jQuery, Photoshop, Illustrator) / upkeep, successful year to year budgeting, and new hardware/software/security research and integration (VMware).
+Help Desk Supervisor, Guilford College Greensboro, North Carolina 2003-2006
+We (I and several others) took a wavering college help desk and brought it back into the 21st century and gave it a flare and effectiveness required at the collegiate level. Specific program usage include: Windows XP, OS X 10.3/10.4, Linux, Windows Server 2003, Print Manager Plus, Active Directory and more.
 
-**Software**
+__Douglass Sand and Gravel__  
+Front End Loader Operator  
+1998 - 2005  
+Family business. Duties included Operating a 85,000 pound piece of heavy equipment, making sure aggregate orders were fulfilled/on time, and that everything was in order at a 3+ acre sand pit.
 
- > I have experience using most modern development tools including Eclipse, Vim, Git and SVN. I have been using Linux for both personal and server use since 2002. I am also capable of using the majority of the Adobe Creative Suite.
+Education
+---------------  
+Guilford College  
+Greensboro, NC  
+B.S. Political Science, Minors: Computer Science / Theology  
+GPA: 3.2  
 
-## Experience
-
-### Punchd & Google.com, Mountain View, CA
-
-#### Software Engineer - May 2011 to present
-
-I was [Punchd](http://getpunchd.com)'s backend and operations engineer until we were acquired by Google in July 2011. At Google I have been working on merging Google's scale with Punchd's ingenuity and speed to help redefine loyalty.
-
-
-### iFixit.com, San Luis Obispo CA
-
-#### Software Developer - April 2009 to April 2011
-
-I wear a variety of hats including -- but not limited to -- writing code to promote high quality content and a stable community, helping keep servers afloat, and working with users to develop content. I write code mainly in PHP and Bash, and almost all of our servers are on Amazon's EC2 Service. 
-
- * Helped create a site-wide reputation community, which began with [iFixit.com/Answers](http://ifixit.com/Answers)
- * Helped maintain various servers, located on Amazon EC2, and local development machines
- * Developed the first JavaScript widget for iFixit's API.
- * Redefined iFixit's developer work flow
-
-### Adobe Systems Incorporated, San Francisco CA
-
-#### Dreamweaver Quality Engineering Intern - Summer 2007 and 2008
-
- * Tested both daily builds and released versions of Dreamweaver against various operating systems -- including Mac OSX 10.4, Mac OSX 10.5, Windows Vista, and Windows XP.
- * Helped maintain the Server Matrix, Bug-base, and test a new test case application
- * Helped develop and test the Web Widgets Feature for Dreamweaver CS4, which won the "Dreamweaver Community Feature of the Year" award in 2008.
-
-<!--
-### California Polytechnic State University, San Luis Obispo CA
-
-#### Computer Science Lab Monitor - September 2006 to June 2007
-
- * Maintained printers and computers for seven labs.
-
-### Sonoma County Information Systems Department, Santa Rosa CA
-
-#### Intern
-
-##### June 2005 to Sept. 2005
- 
- * Built and maintained three separate websites, one dealing with unions, one system uptime web application, and one error reporting web form.
--->
-
-### BSA Camp Oljato, Lakeshore CA
-
-#### Nature Director - Summer 2006
-#### Camp Counselor - Summer 2002, 2003 and 2004
-
- * In charge of four staff members and responsible for planning the activities behind and maintaining the entire Nature area at camp, with an average of about 200 kids every week for seven weeks.
- * Updated and revised the Forest Management Plan and organized conservation projects throughout camp.
- * Took care of children ages ten to eighteen and responsible for creating and planning daily schedules for my classes.
- * Taught merit badge classes such as wilderness survival, camping, hiking, and others.
-
+_References available on request_  
