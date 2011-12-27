@@ -1,7 +1,7 @@
 Braden Douglass  
 braden.douglass[at]gmail[dotz]com  
 415.935.3151  
-447 McAdoo Ave
+447 McAdoo Ave  
 Greensboro, NC 27406
 
 [GitHub](http://github.com/bradendouglass) / 
@@ -10,34 +10,10 @@ Greensboro, NC 27406
 [Treehouse](http://teamtreehouse.com/braden) / 
 [LinkedIn](http://linkedin.com/in/bradendouglass)
 
-Skills
+Profile
 ----------------
 
-* Ruby
-  * Rails
-  * Sinatra
-  * Static Site Generators
-  * Dedicated to functional, well crafted code
-
-* Javascript
-  * DOM manipulation
-  * Backbone.js
-  * Coffeescript (light)
-  * Overall a language that is being actively learned (_read_: wrestled
-    through)
-
-* Tools
-  * Linux
-  * OS X
-  * HTML (5)
-  * CSS (3, responsive web design)
-  * Vim
-  * Amazon Web Services (Ec2, SimpleDB, S3, SQS)
-  * Rackspace services
-  * Apache
-  * MySQL
-  * PostgreSQL
-  * Schemaless DBs (NoSql)
+Dynamic, results oriented individual with over 8 years of technical based IT work experience and visible achievements in the areas of technology, social media, and development. In my free time I enjoy hacking on throw-away code and open source projects, being pushed by Crossfit and barefoot running, and adore fine beer and real food. Looking for a position and or a team where I can be slotted into the very bottom of the "chain". Aching to have my development skills stretched, modified, and ultimatly broken. Being anywhere near the top is completely stagnating and looking forward to make great move.
 
 Work Experience
 ---------------
@@ -73,5 +49,33 @@ Guilford College
 Greensboro, NC  
 B.S. Political Science, Minors: Computer Science / Theology  
 GPA: 3.2  
+
+Skills
+----------------
+
+* Ruby
+  * Rails
+  * Sinatra
+  * Static Site Generators
+  * Dedicated to functional, well crafted code
+
+* Javascript
+  * DOM manipulation
+  * Backbone.js (light)
+  * Coffeescript (light)
+  * Overall a language that is being actively learned (_read_: wrestled
+    through)
+
+* Tools
+  * Linux
+  * OS X
+  * HTML (5)
+  * CSS (3, responsive web design)
+  * Vim
+  * Rackspace services
+  * Apache
+  * MySQL
+  * PostgreSQL
+  * Schemaless DBs (NoSql)
 
 _References available on request_  
