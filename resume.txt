@@ -17,6 +17,18 @@ Dynamic, results oriented individual with over 8 years of technical based IT wor
 
 Work Experience
 ---------------
+__Electronic Data Magnetics__   
+Developer
+2010 - Current  
+In-house programmer that was originally brought on to clean up and
+complete a viable estimates and order system for customer service
+representatives. A working and viable prototype was completed in
+FileMaker 11 and implemented. A much more concise project re-write is
+currently in the process using Ruby and the Rails framework. Other
+completed projects include: web presence redesign and knowledge forums
+to share information across the corporation. When, not pushing text
+into Vim, day-to-day responsibilities include solving complex technical problems to aid business operations.
+
 __My Untitled Folder__  
 Co-Host  
 2008 - 2011  
