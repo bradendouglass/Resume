@@ -7,7 +7,6 @@ Greensboro, NC 27406
 [GitHub](http://github.com/bradendouglass) / 
 [Blog](http://cloudbacon.com) / 
 [Twitter](http://twitter.com/braidn) / 
-[Treehouse](http://teamtreehouse.com/braden) / 
 [LinkedIn](http://linkedin.com/in/bradendouglass)
 
 Profile
@@ -29,7 +28,7 @@ completed projects include: web presence redesign and knowledge forums
 to share information across the corporation. When, not pushing text
 into Vim, day-to-day responsibilities include solving complex technical problems to aid business operations.
 
-__My Untitled Folder__  
+__My Untitled Folder Podast__  
 Co-Host  
 2008 - 2011  
 Myself and one co-host produced almost 100 episodes that focused on Apple, Google, the cloud and any up and coming tech. No one really listened to the podcast and after 3 years of constructing extensive weekly show notes, editing out issues in the audio, and trying to stretch ideas and questions out of the conversation I decided to cut the chord and pursue independent web media without my co-host. Never a one regret
@@ -62,32 +61,14 @@ Greensboro, NC
 B.S. Political Science, Minors: Computer Science / Theology  
 GPA: 3.2  
 
-Skills
+System Proficiency
 ----------------
+__Programming__
 
-* Ruby
-  * Rails
-  * Sinatra
-  * Static Site Generators
-  * Dedicated to functional, well crafted code
+> Ruby, Ruby on Rails, Javascript (dom manipulation and some client side code), Lua, SQL, HTML, Haml, Markdown CSS, Less, Sass
 
-* Javascript
-  * DOM manipulation
-  * Backbone.js (light)
-  * Coffeescript (light)
-  * Overall a language that is being actively learned (_read_: wrestled
-    through)
+__Software__
 
-* Tools
-  * Linux
-  * OS X
-  * HTML (5)
-  * CSS (3, responsive web design)
-  * Vim
-  * Rackspace services
-  * Apache
-  * MySQL
-  * PostgreSQL
-  * Schemaless DBs (NoSql)
+> Vim, Git, Linux (Debian / Arch), Apple hardware/software ecosystem, Tmux (pair programming), Nginx, Apache, Blogging engines, Adobe Fireworks, Illustrator, and Photoshop
 
 _References available on request_  
