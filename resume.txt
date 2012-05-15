@@ -46,7 +46,10 @@ __Miller School of Albemarle__
 IT Director  
 2006 - 2008  
 Complete control over the technological needs of The Miller School (private: grades 8-12). Projects I undertook included, wireless networking for teachers, faculty laptops / desktop upkeep, technology education programs for faculty and staff, web application integration, Novel-Linux / MAC / Microsoft integration, wired / wireless 802.11 a/g/b/n networking and implementation (Cisco / 3Com / Proxim), lab construction, web site design (CSS, PHP, jQuery, Photoshop, Illustrator) / upkeep, successful year to year budgeting, and new hardware/software/security research and integration (VMware).
-Help Desk Supervisor, Guilford College Greensboro, North Carolina 2003-2006
+
+__Guilford College__  
+Help Desk Supervisor  
+2003-2006  
 We (I and several others) took a wavering college help desk and brought it back into the 21st century and gave it a flare and effectiveness required at the collegiate level. Specific program usage include: Windows XP, OS X 10.3/10.4, Linux, Windows Server 2003, Print Manager Plus, Active Directory and more.
 
 __Douglass Sand and Gravel__  
