@@ -1,13 +1,11 @@
 Braden Douglass  
 braden.douglass[at]gmail[dotz]com  
 415.935.3151  
-447 McAdoo Ave  
-Greensboro, NC 27406
+Greensboro, NC 27401
 
 [GitHub](http://github.com/bradendouglass) / 
 [Blog](http://cloudbacon.com) / 
 [Twitter](http://twitter.com/braidn) / 
-[Treehouse](http://teamtreehouse.com/braden) / 
 [LinkedIn](http://linkedin.com/in/bradendouglass)
 
 Profile
@@ -25,14 +23,21 @@ complete a viable estimates and order system for customer service
 representatives. A working and viable prototype was completed in
 FileMaker 11 and implemented. A much more concise project re-write is
 currently in the process using Ruby and the Rails framework. Other
-completed projects include: web presence redesign and knowledge forums
+completed projects include: web presence redesign, inventory - job
+costing internal applications, and knowledge forums
 to share information across the corporation. When, not pushing text
 into Vim, day-to-day responsibilities include solving complex technical problems to aid business operations.
 
 __My Untitled Folder__  
-Co-Host  
+Podcast Co-Host  
 2008 - 2011  
-Myself and one co-host produced almost 100 episodes that focused on Apple, Google, the cloud and any up and coming tech. No one really listened to the podcast and after 3 years of constructing extensive weekly show notes, editing out issues in the audio, and trying to stretch ideas and questions out of the conversation I decided to cut the chord and pursue independent web media without my co-host. Never a one regret
+Myself and one co-host produced almost 100 episodes that focused on
+Apple, Google, the cloud and any up and coming tech. No one really
+listened to the podcast and after 3 years of constructing extensive
+weekly show notes, editing out issues in the audio, and trying to
+stretch ideas and questions out of the conversation I decided to cut the
+chord and pursue independent web media without my co-host. Never a one
+regret.
 
 __Benedict Advertising / Honkfish Social Media__  
 Community Manager ("Social Media Artificier")  
@@ -69,25 +74,24 @@ Skills
   * Rails
   * Sinatra
   * Static Site Generators
+  * Server Scripting/Automation
   * Dedicated to functional, well crafted code
 
 * Javascript
   * DOM manipulation
   * Backbone.js (light)
-  * Coffeescript (light)
-  * Overall a language that is being actively learned (_read_: wrestled
-    through)
+  * Coffeescript
+  * Actively Learning
 
-* Tools
-  * Linux
+* Tool Stack
+  * Linux/Unix
   * OS X
   * HTML (5)
   * CSS (3, responsive web design)
   * Vim
   * Rackspace services
-  * Apache
-  * MySQL
-  * PostgreSQL
+  * Nginx/Apache
+  * MySQL/PostgreSQL
   * Schemaless DBs (NoSql)
 
 _References available on request_  
