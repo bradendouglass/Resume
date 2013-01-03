@@ -11,7 +11,7 @@ Greensboro, NC 27401
 Profile
 ----------------
 
-Dynamic, results oriented individual with over 8 years of technical based IT work experience and visible achievements in the areas of technology, social media, and development. In my free time I enjoy hacking on throw-away code and open source projects, being pushed by Crossfit and barefoot running, and adore fine beer and real food. Looking for a position and or a team where I can be slotted into the very bottom of the "chain". Aching to have my development skills stretched, modified, and ultimatly broken. Being anywhere near the top is completely stagnating and looking forward to make great move.
+Dynamic, results oriented individual with over 8 years of technical based IT work experience and visible achievements in the areas of technology, social media, and development. In my free time I enjoy hacking on throw-away code and open source projects, being pushed by Crossfit and barefoot running, and adore fine beer and real food. Looking for a position or a team where I can find a setting for my deverse skill set and build heavily upon my journey as a developer.
 
 Work Experience
 ---------------
