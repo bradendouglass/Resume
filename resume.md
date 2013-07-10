@@ -1,9 +1,9 @@
 Braden Douglass  
-braden.douglass[at]gmail[dotz]com  
+bradenwork[at]gmail[dotz]com  
 415.935.3151  
 Greensboro, NC 27401
 
-[GitHub](http://github.com/bradendouglass) / 
+[GitHub](http://github.com/braidn) / 
 [Blog](http://cloudbacon.com) / 
 [Twitter](http://twitter.com/braidn) / 
 [LinkedIn](http://linkedin.com/in/bradendouglass)
@@ -15,9 +15,19 @@ Dynamic, results oriented individual with over 8 years of technical based IT wor
 
 Work Experience
 ---------------
+__Legal Bids (Startup)__
+Full Stack Developer
+2012 - Current
+Think Legalzoom meets Elance. A marketplace where lawyers can bid on work 
+from pre-qualified clients with guarenteed payment through an escrow system.
+A small two man team (including myself) built the entirety of the back-end
+and front-end of the system. Some of the more specific items that I implemented 
+were the escrow payment system, lawyer dashboard, bid processes, and commenting
+system.
+
 __Electronic Data Magnetics__   
 Developer
-2010 - Current  
+2010 - 2012  
 In-house programmer that was originally brought on to clean up and
 complete a viable estimates and order system for customer service
 representatives. A working and viable prototype was completed in
@@ -27,7 +37,6 @@ completed projects include: web presence redesign, inventory and job
 costing internal applications, and knowledge forums
 to share information across the corporation. When, not pushing text
 into Vim, day-to-day responsibilities include solving complex technical problems to aid business operations.
-
 
 __Benedict Advertising / Honkfish Social Media__  
 Community Advocate ("Social Media Artificier")  
@@ -43,33 +52,30 @@ Education
 Guilford College  
 Greensboro, NC  
 B.S. Political Science, Minors: Computer Science / Theology  
-GPA: 3.2  
 
 Skills
 ----------------
 
 * Ruby
   * Rails
-  * Sinatra
+  * Sinatra/Padrino/Scorched
   * Static Site Generators
   * Server Scripting/Automation
-  * Dedicated to functional, well crafted code
+  * Dedicated to pragmatic, well crafted code
 
 * Javascript
   * DOM manipulation
-  * Backbone.js (light)
+  * Backbone.js/Ember.js
   * Coffeescript
-  * Actively Learning
+  * Active Area of Interest/Self Education
 
 * Tool Stack
   * Linux/Unix
   * OS X
-  * HTML (5)
-  * CSS (3, responsive web design)
+  * HTML/CSS
   * Vim
-  * Rackspace services
+  * Amazon/Rackspace services
   * Nginx/Apache
-  * MySQL/PostgreSQL
-  * Schemaless DBs (NoSql)
+  * MySQL/PostgreSQL/MongoDB
 
 _References available on request_  
