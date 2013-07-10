@@ -15,9 +15,9 @@ Dynamic, results oriented individual with over 8 years of technical based IT wor
 
 Work Experience
 ---------------
-__Legal Bids (Startup)__
+__Legal Bids (Startup)__  
 Full Stack Developer
-2012 - Current
+2012 - Current  
 Think Legalzoom meets Elance. A marketplace where lawyers can bid on work 
 from pre-qualified clients with guarenteed payment through an escrow system.
 A small two man team (including myself) built the entirety of the back-end
