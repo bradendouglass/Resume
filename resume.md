@@ -70,10 +70,9 @@ Skills
   * Active Area of Interest/Self Education
 
 * Tool Stack
-  * Linux/Unix
-  * OS X
+  * OS X (desktop)/Linux/Unix (server)
   * HTML/CSS
-  * Vim
+  * Vim/Git
   * Amazon/Rackspace services
   * Nginx/Apache
   * MySQL/PostgreSQL/MongoDB
