@@ -62,7 +62,7 @@ Skills
   * Sinatra/Padrino/Scorched
   * Static Site Generators
   * Server Scripting/Automation
-  * Dedicated to pragmatic, well crafted code
+  * Dedicated to pragmatic, well crafted, and tested code
 
 * Javascript
   * DOM manipulation
