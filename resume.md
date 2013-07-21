@@ -15,6 +15,11 @@ Dynamic, results oriented individual with over 8 years of technical based IT wor
 
 Work Experience
 ---------------
+__Consulting__  
+Software Solutions Architect
+2011 - Current  
+Focusing on Ruby and Rails along with the ever growing world of Javascript, I have consulted and constructed test driven software that meets the needs of todays customer and early stage startup. A current project: assisting a medical records company complete a 5 year code migration from PHP to Rails. Before starting with the project, it badly required a static development environment. To tackle this part, I constructed a Vagrant virtual-machine that would be able to handle the complexities that come with a dual language application. This will allow myself, the other developer and now others to manage development of the project in a much more efficient manner.
+
 __Legal Bids (Startup)__  
 Full Stack Developer
 2012 - Current  
@@ -42,10 +47,6 @@ __Benedict Advertising / Honkfish Social Media__
 Community Advocate ("Social Media Artificier")  
 2009 - 2010  
 A fledgling social media marketing firm was looking to fill a position with someone who had past experience yet, had a impressive grasp on emerging technology.  Community advocates  plan and implement specific online brand building techniques for a diverse group of clients.  Successful clients and advocates leverage company profiles in order to listen to customer needs, conduct research and development, interact freely with new and emerging customers, build friendships, and improve sales.
-
-__It and Social Media Freelancer__  
-2008 - 2009  
-Client based work focusing on Social Media Consulting, Web Design/Development and IT needs. All technology work performed in a Mac (10.4 / 10.5 Server), Linux, Windows (XP / Vista / 7) based network environment.
 
 Education
 ---------------  
